@@ -6,7 +6,7 @@ package mainn;
  * @author Παπαδοπούλου Κωνσταντίνα
  * @version 8.0.1 Nov 22, 2014
  */
-public class Mainn {
+public class Main {
 
     /**
      * @param args the command line arguments
