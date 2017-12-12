@@ -1,6 +1,7 @@
 # Movie-Booking-System
-Software about booking tickets for theatres or cinemas online. It has an administration session and a user session.
+This project was created for academic purposes on the subject of 'Object Oriented Programming' at the Aristotle University of Thessaloniki.
 
+Software about booking tickets for theatres or cinemas online. It has an administration session and a user session.
 
 <img width="600" alt="1" src="https://user-images.githubusercontent.com/16197563/31713448-f46d8cd6-b406-11e7-995d-bd8004a9cbb6.png">
 
